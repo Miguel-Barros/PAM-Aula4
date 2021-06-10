@@ -1,0 +1,15 @@
+/**/
+.button{
+  margin-top: 20px;
+}
+
+body{
+  background-color: rgb(13, 52, 97);
+  text-align: center;
+  color: white;
+}
+
+.imagem{
+  height: 200px;
+  width: 100%;
+}
